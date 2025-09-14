@@ -1,5 +1,5 @@
 # Skin Cancer Classification using Deep Learning
-## [:film_projector: Presentation Link](https://youtu.be/OEcFbeO88fQ) | [:pencil2:How to use the tool](https://youtu.be/60tc351UIxw)
+
 
 
 # Abstract
@@ -375,5 +375,4 @@ Tong, H., Zhi, Z., Hang, Z., Zhongyue, Z., Junyuan, X., Mu, L. (2018). Bag of Tr
 
 Qishen, H., Bo, L., Fuxu L. (2020). Identifying Melanoma Images using EfficientNet Ensemble: Winning Solution to the SIIM-ISIC Melanoma Classification Challenge. https://arxiv.org/abs/2010.05351
 
-# Credits
-This project cannot be completed without you guys **Yogesh Babu Krishnakumar** [@github/13505538-Yogesh](https://github.com/13505538-Yogesh) and **Wilson Lukmanjaya** [@github/WLukmanjaya](https://github.com/WLukmanjaya). Thanks for your support :D
+
